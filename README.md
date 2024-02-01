@@ -1,8 +1,7 @@
-[![MasterHead]("https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e")]()
 
 <h1 align="center">Hi 👋, I'm Cerine Gousmine</h1>
-<h3 align="center">A Full stack probleme solver from Algeria</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)" />
+<h3 align="center">A Full stack problem solver from Algeria</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ce-droid&label=Profile%20views&color=0e75b6&style=flat" alt="ce-droid" /> </p>
 
